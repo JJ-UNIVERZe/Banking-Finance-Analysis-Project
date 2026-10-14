@@ -32,20 +32,15 @@ Add the dashboard screenshot to the repository and name it `Banking_dashboard.pn
 
 | File | Description |
 |---|---|
+| `Banking_Finance_Uncleaned_Dataset.xlsx` | Cleaned, Not ready for analysis banking dataset |
 | `Cleaned_Banking_Dataset.xlsx` | Cleaned, analysis-ready banking dataset |
 | `Banking_dashboard.png` | Final dashboard screenshot |
 | `README.md` | Project overview, methods, metrics, and findings |
-| `PROJECT_DOCUMENTATION.md` | Detailed cleaning process, analysis, insights, and recommendations (if included) |
+| `PROJECT_DOCUMENTATION.md` | Detailed cleaning process, analysis, insights, and recommendations  |
 
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**
-- Data cleaning and standardization
-- Excel formulas: `COUNTIF`, `COUNTIFS`, `SUMIFS`, `TRIM`, `CLEAN`, `PROPER`, and `TEXT`
-- PivotTables and PivotCharts
-- KPI cards and dashboard layout
-- Slicers for interactive filtering
-- Data visualization and business insight reporting
 
 ## 🔎 What the Dashboard Answers
 
